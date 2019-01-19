@@ -1,5 +1,7 @@
 # mbtiles
 
+> This repository is a fork of `mapbox/node-mbtiles`, but for CGCS2000.
+
 Node.js utilities and [tilelive](https://github.com/mapbox/tilelive.js) integration for the [MBTiles](http://mbtiles.org) format.
 
 [![Build Status](https://travis-ci.org/mapbox/node-mbtiles.svg?branch=master)](https://travis-ci.org/mapbox/node-mbtiles)
