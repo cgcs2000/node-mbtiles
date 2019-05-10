@@ -1,6 +1,6 @@
 {
   "name": "@cgcs2000/mbtiles",
-  "version": "0.10.3",
+  "version": "0.11.0",
   "description": "Utilities and tilelive integration for the MBTiles format.",
   "url": "http://github.com/cgcs2000/node-mbtiles",
   "author": "Mapbox (https://www.mapbox.com)",
@@ -30,16 +30,16 @@
   "dependencies": {
     "@cgcs2000/sphericalmercator": "~1.1.1",
     "@mapbox/tiletype": "0.3.x",
-    "d3-queue": "~2.0.3",
+    "d3-queue": "~3.0.7",
     "sqlite3": "4.x"
   },
   "devDependencies": {
-    "eslint": "~1.00.0",
+    "eslint": "~5.16.0",
     "eslint-config-unstyled": "^1.1.0",
-    "tape": "~3.0.0"
+    "tape": "~4.10.1"
   },
   "engines": {
-    "node": ">= 4"
+    "node": ">= 6"
   },
   "scripts": {
     "test": "eslint lib && tape test/*.js"
