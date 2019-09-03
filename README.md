@@ -1,6 +1,6 @@
-# mbtiles
+> This repository is a fork of `mapbox/node-mbtiles`, adding support for CGCS2000.
 
-> This repository is a fork of `mapbox/node-mbtiles`, but for CGCS2000.
+# mbtiles
 
 Node.js utilities and [tilelive](https://github.com/mapbox/tilelive.js) integration for the [MBTiles](http://mbtiles.org) format.
 
